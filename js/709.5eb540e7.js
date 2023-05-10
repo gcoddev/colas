@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkoperativa_colas"]=self["webpackChunkoperativa_colas"]||[]).push([[709],{4709:function(n,r,e){e.r(r),e.d(r,{default:function(){return i}});var t=e(3396);const a={class:"container"};function c(n,r){const e=(0,t.up)("router-view");return(0,t.wg)(),(0,t.iD)("div",a,[(0,t.Wm)(e)])}var o=e(89);const s={},u=(0,o.Z)(s,[["render",c]]);var i=u}}]);
-//# sourceMappingURL=709.503724f3.js.map
+//# sourceMappingURL=709.5eb540e7.js.map
